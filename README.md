@@ -1,6 +1,6 @@
 # Prostate Cancer RNA Analysis
 
-# Background
+## Background
 
 Prostate cancer arises in the prostate gland, a small walnut-shaped organ in males responsible for producing seminal
 fluid vital for nourishing and transporting sperm. Though it's one of the most prevalent cancer types, many cases
@@ -318,7 +318,8 @@ wait
 done) > flagstats_reports.bam.flagstats
 ```
 
-After this part I checked the flagstats report, you can view it in the supplementary under the header "Flagstats".
+After this part I checked the flagstats report:
+![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/16d692c7-43cb-4483-9013-2190ff447f6b)
 The flagstats report appears excellent: every read is properly paired, all reads have been successfully mapped,
 and the majority are classified as primary reads, meaning they are of high quality. Additionally, there are no
 duplicates.
