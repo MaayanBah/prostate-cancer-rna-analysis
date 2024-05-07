@@ -777,9 +777,16 @@ scp maayanbah@10.0.32.173:/home/maayanbah/hw_5/significantly_changed_genes.csv s
 
 ## Step 8
 
-You can see the volcano plot and the clustergram of the significantly changed genes and the
-positively significantly changed genes in the supplementary under the header "step 8".
-I also created GO analysis on the significantly changed genes, the results are under the same header.
+The volcano plot from step 7:
+![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/e69efa9e-4ad4-4809-96c0-36cc0e6ce679)
+
+The clustergram of the significantly changed genes and the positively significantly changed genes:
+![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/701fc400-2280-4e9b-9ac9-0c0082449145)
+
+![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/67788fcb-e7a1-4f2a-9c97-201a425fcbd2)
+
+GO analysis on the significantly changed genes:
+![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/6e7e6bb3-95a2-4c6d-9ca4-bf6e238320a5)
 
 ## Step 9
 
