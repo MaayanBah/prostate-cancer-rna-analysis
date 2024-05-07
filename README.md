@@ -104,8 +104,8 @@ scp -r maayanbah@10.0.32.173:/home/maayanbah/hw_5/first_quality_reports first_qu
 ```
 
 After I copied the files, I used WinSCP to transfer them to my computer.
-First, we'll review the fastqc reports. You can view screenshots from the report in the attached supplementary PDF 
-under the header "First quality reports."
+First, we'll review the fastqc reports. You can view screenshots from the report in the attached first_quality_reports
+directory.
 
 Basic Statistics: I checked that all the samples have fastq reports.
 Sequence Quality Histograms: There are several things that I've noticed:
@@ -120,8 +120,8 @@ Per Base Sequence Content: we have a problematic result in the first 10 bp. it's
 it might not be enough for us to decide that we want to cut it. since the "Basic Statistics" results support the claim
 that the first 5 bp are problematic, I've decided to trim it.
 I also noticed that about 15 files had bad results throughout the file. I opened the fastqc reports and looked at the
-"Per base sequence content" table since it's easier to look at. As you can see in the supplementary (I added one example
-of this graph out of the 15 files), we have more A and T than G and C. Although we expect to see about 25% of 
+"Per base sequence content" table since it's easier to look at. As you can see in the first_quality_reports directory,
+we have more A and T than G and C. Although we expect to see about 25% of 
 each nucleotide - sometimes the A/T content will be higher since G/C are rarer.
 For this reason, I decided to keep these files and use them.
 
@@ -234,8 +234,7 @@ scp -r maayanbah@10.0.32.173:/home/maayanbah/hw_5/second_quality_reports second_
 ```
 
 After I copied the files, I used WinSCP to transfer them to my computer.
-Now, we can review the fastqc reports. You can view screenshots from the report in the attached supplementary
-PDF under the header "Second quality reports".
+Now, we can review the fastqc reports. You can view the report in the second_quality_reports directory.
 
 
 Basic Statistics: All files are present.
