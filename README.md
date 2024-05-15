@@ -775,10 +775,12 @@ scp maayanbah@10.0.32.173:/home/maayanbah/hw_5/significantly_changed_genes.csv s
 ```
 
 The volcano plot:
-![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/e69efa9e-4ad4-4809-96c0-36cc0e6ce679)
+
+<img src="https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/e69efa9e-4ad4-4809-96c0-36cc0e6ce679" alt="image" width="400" height="300">
 
 GO analysis on the significantly changed genes:
-![image](https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/6e7e6bb3-95a2-4c6d-9ca4-bf6e238320a5)
+
+<img src="https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/6e7e6bb3-95a2-4c6d-9ca4-bf6e238320a5" alt="image" width="400" height="300">
 
 ## Step 8
 
