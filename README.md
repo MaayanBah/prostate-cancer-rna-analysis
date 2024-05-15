@@ -780,7 +780,7 @@ The volcano plot:
 
 GO analysis on the significantly changed genes:
 
-<img src="https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/6e7e6bb3-95a2-4c6d-9ca4-bf6e238320a5" alt="image" width="400" height="300">
+<img src="https://github.com/MaayanBah/prostate-cancer-rna-analysis/assets/84293984/6e7e6bb3-95a2-4c6d-9ca4-bf6e238320a5" alt="image" width="500" height="300">
 
 ## Step 8
 
